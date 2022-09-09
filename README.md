@@ -15,6 +15,25 @@ $ yarn start
 
 # generate static project
 $ yarn generate
+
+
+
+# Install firebase cli with:::
+$ yarn  global add firebase-tools
+#for help options run::==>
+$ firebase --help
+
+# login to firebase
+$ firebase login
+
+# check your projects in firebase
+$ firebase projects:list
+
+
+
+
+
+$HAPPY $CODING
 ```
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
